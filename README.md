@@ -1,5 +1,5 @@
 # Trends in Computational Metabolomics (2021–2025)
-
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of computational tools, databases, and software for metabolomics research published between 2021-2025.
 
 ## Citation
