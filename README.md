@@ -10,57 +10,57 @@ A curated list of computational tools, databases, and software for metabolomics 
 
 Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
-## Contents
+## 📚 Table of Contents
 
-- [Annotation](#annotation)
-- [Benchmark/Dataset](#benchmarkdataset)
-- [Biosynthetic Gene Clusters](#biosynthetic-gene-clusters)
-- [CE-MS](#ce-ms)
-- [DIMS](#dims)
-- [Database](#database)
-- [Drug Discovery](#drug-discovery)
-- [Exposomics](#exposomics)
-- [FT-ICR MS](#ft-icr-ms)
-- [Formats](#formats)
-- [GC-MS](#gc-ms)
-- [Holistic/Standalone Tools](#holisticstandalone-tools)
-- [IR](#ir)
-- [Imaging MS](#imaging-ms)
-- [Ion Mobility MS](#ion-mobility-ms)
-- [Isotopic](#isotopic)
-- [Large Scale](#large-scale)
-- [Lipidomics](#lipidomics)
-- [Metabolic Networks](#metabolic-networks)
-- [Metadata](#metadata)
-- [Multifunctional](#multifunctional)
-- [Multiomics](#multiomics)
-- [NMR](#nmr)
-- [Organism Specific](#organism-specific)
-- [Pathway, Enrichment and Ontology Tools](#pathway-enrichment-and-ontology-tools)
-- [Patterns](#patterns)
-- [Pre-processing](#pre-processing)
-- [Quality Control](#quality-control)
-- [RT (Retention Time)](#rt-retention-time)
-- [Single Cell Metabolomics](#single-cell-metabolomics)
-- [Spatial Metabolomics](#spatial-metabolomics)
-- [Specialized](#specialized)
-- [Spectral Library](#spectral-library)
-- [Statistical](#statistical)
-- [Targeted](#targeted)
-- [Visualization](#visualization)
+- [🏷️ Annotation](#️-annotation)
+- [🧪 Benchmark/Dataset](#-benchmarkdataset)
+- [🧬 Biosynthetic Gene Clusters](#-biosynthetic-gene-clusters)
+- [💧 CE-MS](#-ce-ms)
+- [⚡ DIMS](#-dims)
+- [🗃️ Database](#️-database)
+- [💊 Drug Discovery](#-drug-discovery)
+- [🌱 Exposomics](#-exposomics)
+- [🌀 FT-ICR MS](#-ft-icr-ms)
+- [🗂️ Formats](#️-formats)
+- [🔥 GC-MS](#-gc-ms)
+- [🔋 Holistic/Standalone Tools](#-holisticstandalone-tools)
+- [🌈 IR](#-ir)
+- [🖼️ Imaging MS](#️-imaging-ms)
+- [🌬️ Ion Mobility MS](#️-ion-mobility-ms)
+- [🧮 Isotopic](#-isotopic)
+- [🔭 Large Scale](#-large-scale)
+- [🧬 Lipidomics](#-lipidomics)
+- [🕸️ Metabolic Networks](#️-metabolic-networks)
+- [🗃️ Metadata](#️-metadata)
+- [🔀 Multifunctional](#-multifunctional)
+- [🔗 Multiomics](#-multiomics)
+- [🔬 NMR](#-nmr)
+- [🌱 Organism Specific](#-organism-specific)
+- [🛤️ Pathway, Enrichment and Ontology Tools](#️-pathway-enrichment-and-ontology-tools)
+- [🔎 Patterns](#-patterns)
+- [⚙️ Pre-processing](#️-pre-processing)
+- [✅ Quality Control](#-quality-control)
+- [⏱️ RT (Retention Time)](#️-rt-retention-time)
+- [🦠 Single Cell Metabolomics](#-single-cell-metabolomics)
+- [🗺️ Spatial Metabolomics](#️-spatial-metabolomics)
+- [🧩 Specialized](#-specialized)
+- [📕 Spectral Library](#-spectral-library)
+- [📈 Statistical](#-statistical)
+- [🎯 Targeted](#-targeted)
+- [📊 Visualization](#-visualization)
 
 ---
 
-## Annotation
+## 🏷️ Annotation
 
-### Class | Property Prediction
+### 🧪 Class | Property Prediction
 
 - [CANOPUS](https://bio.informatik.uni-jena.de/software/canopus/) - Class annotation tool
 - [Mass Spectrum Transformer](https://github.com/chensaian/TransG-Net) - Transformer-based mass spectrum analysis
 - [MWFormer](https://github.com/zhanghailiangcsu/MWFormer) - Molecular weight prediction
 - [Spec2Class](https://huggingface.co/VickiPol/binary_models) - Spectrum to class prediction
 
-### De Novo Generation
+### 🔍 De Novo Generation
 
 - [DiffMS](https://github.com/coleygroup/DiffMS) - Diffusion model for MS
 - [MASSISTANT](https://github.com/BartaLazar/MASSISTANT/) - Mass spectrometry assistant
@@ -75,7 +75,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [Spec2Mol](https://github.com/KavrakiLab/Spec2Mol) - Spectrum to molecule
 - [TeFT](https://github.com/thumingo/TeFT) - Transformer for fragmentation
 
-### Learned Spectrum Representations
+### 🧠 Learned Spectrum Representations
 
 - [ChemEmbed](https://github.com/massspecdl/ChemEmbed) - Chemical embeddings
 - [CLERMS](https://github.com/HaldamirS/CLERMS) - Contrastive learning for MS
@@ -89,7 +89,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [Spec2Vec](https://github.com/iomega/spec2vec) - Word2Vec for spectra
 - [SpecEmbedding](https://huggingface.co/spaces/xp113280/SpecEmbedding) - Spectrum embedding
 
-### Molecular Formula Prediction
+### 🏎️ Molecular Formula Prediction
 
 - [CRB-FCC](https://github.com/iconSS/FCC/releases/tag/v1) - Fragmental chain characterization
 - [FIDDLE](https://github.com/JosieHong/FIDDLE) - Formula identification
@@ -98,7 +98,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [MIST-CF](https://github.com/samgoldman97/mist-cf) - Chemical formula prediction
 - [RASSP](https://github.com/thejonaslab/rassp-public) - Rapid annotation
 
-### Molecular Library Retrieval
+### 📚 Molecular Library Retrieval
 
 - [CMSSP](https://huggingface.co/OliXio/CMSSP) - Cross-modal spectrum-structure prediction
 - [COSMIC](https://bio.informatik.uni-jena.de/cosmic/) - Confidence scoring for structure annotation
@@ -110,7 +110,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [MVP](https://github.com/HassounLab/MVP) - Metabolite virtual profiling
 - [VInSMoC](https://github.com/mohimanilab/VInSMoC) - Variable interpretation of spectrum-molecule couples
 
-### Molecular Networking
+### 🕸️ Molecular Networking
 
 - [3D-MPEA](https://github.com/ZibianFan/3D-MPEA) - 3D molecular property embedding
 - [BAM](https://github.com/HassounLab/BAM) - Biotransformation-based annotation method
@@ -144,7 +144,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [NetID](https://github.com/LiChenPU/NetID/releases/tag/v1.0) - Network-based identification
 - [OrbiFragsNets](https://github.com/EdwinChingate/OrbiFragsNets) - Orbitrap fragmentation networks
 
-### Spectral Similarity Retrieval
+### 🔍 Spectral Similarity Retrieval
 
 - [BLINK](https://github.com/biorack/blink) - Fast spectral similarity
 - [compareMS2 2.0](https://github.com/524D/compareMS2) - MS/MS comparison
@@ -161,7 +161,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [TransExION](https://github.com/banhdzui/TransExION) - Transformer for ion extraction
 - [Weighted spectral similarity for library search](https://github.com/enveda/weighting-spectral-similarity) - Weighted similarity
 
-### Spectrum Prediction
+### ⚗️ Spectrum Prediction
 
 - [3DMolMS](https://github.com/JosieHong/3DMolMS) - 3D molecular MS prediction
 - [CFM-ID 4.0](https://cfmid.wishartlab.com/) - Competitive fragmentation modeling
@@ -183,7 +183,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [QC-GN2oMS2](https://github.com/PNNL-m-q/qcgnoms) - Quantum chemistry MS prediction
 - [SingleFrag](https://github.com/MaribelPR/SingleFrag) - Single fragmentation prediction
 
-### Workflow Tools
+### 🧰 Workflow Tools
 
 - [ENTAiLS Toolkit](https://whitehead-heather.github.io/ENTAiLSToolkit/) - Annotation toolkit
 - [MetaboCoreUtils, MetaboAnnotation and CompoundDb](https://github.com/jorainer/MetaboAnnotationTutorials) - R packages for annotation
@@ -199,14 +199,14 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Benchmark/Dataset
+## 🧪 Benchmark/Dataset
 
 - [MassSpecGym](https://github.com/pluskal-lab/MassSpecGym) - Mass spectrometry benchmark
 - [MetaBench](https://github.com/metabench/metabench) - Metabolomics benchmarking
 
 ---
 
-## Biosynthetic Gene Clusters
+## 🧬 Biosynthetic Gene Clusters
 
 - [antiSMASH 8.0](https://antismash.secondarymetabolites.org/) - Biosynthetic gene cluster detection
 - [iPRESTO](https://pypi.org/project/ipresto/) - Prediction of secondary metabolites
@@ -218,14 +218,14 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## CE-MS
+## 💧 CE-MS
 
 - [MobilityTransformR](https://github.com/LiesaSalzer/MobilityTransformR) - Mobility transformation
 - [PeakMeister](https://github.com/PBM-Group/PeakMeister) - Peak detection for CE-MS
 
 ---
 
-## DIMS
+## ⚡ DIMS
 
 - [EASY-FIA](https://github.com/AMrbt20/EASY-FIA/) - Flow injection analysis
 - [rIDIMS](https://github.com/BioinovarLab/rIDIMS) - R package for DIMS
@@ -233,7 +233,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Database
+## 🗃️ Database
 
 - [AMDB](https://amdb.online/) - Antimicrobial metabolite database
 - [BinDiscover database](https://bindiscover.metabolomics.us/) - Binary discovery database
@@ -278,7 +278,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Drug Discovery
+## 💊 Drug Discovery
 
 - [BitBIRCH-Lean](https://github.com/mqcomplab/bblean) - Chemical space exploration
 - [ChromaQuant](https://hplcfdu.shinyapps.io/ChromaQuant/) - Chromatographic quantification
@@ -288,7 +288,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Exposomics
+## 🌱 Exposomics
 
 - [CMDN](https://github.com/LeaveMeNotTonight/CMDN) - Chemical mixture detection network
 - [EISA-EXPOSOME](https://github.com/Lab-XUE/EISA-EXPOSOME) - Exposome analysis
@@ -303,14 +303,14 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## FT-ICR MS
+## 🌀 FT-ICR MS
 
 - [MetaboDirect](https://github.com/Coayala/MetaboDirect) - Direct analysis
 - [MoleTrans](https://github.com/JibaoLiu/MoleTrans) - Molecular transformation
 
 ---
 
-## Formats
+## 🗂️ Formats
 
 - [Aird](https://github.com/CSi-Studio/AirdPro) - Aird format tools
 - [AlphaTims](https://github.com/MannLabs/alphatims) - TIMS data handling
@@ -328,7 +328,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## GC-MS
+## 🔥 GC-MS
 
 - [ADAP-KDB](https://adap.cloud/) - ADAP knowledge database
 - [CRISP](https://github.com/vivekmathema/GCxGC-CRISP) - GCxGC data processing
@@ -348,7 +348,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Holistic/Standalone Tools
+## 🔋 Holistic/Standalone Tools
 
 - [FluoroMatch 2.0](http://innovativeomics.com/software/fluoromatch-flow-covers-entire-pfas-workflow/) - PFAS workflow
 - [GNPS2](https://gnps2.org) - Global natural products social networking
@@ -365,7 +365,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## IR
+## 🌈 IR
 
 - [Chemprop-IR](https://github.com/gfm-collab/chemprop-IR) - IR property prediction
 - [Graphormer-IR](https://github.com/HopkinsLaboratory/Graphormer-IR) - IR prediction with Graphormer
@@ -373,7 +373,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Imaging MS
+## 🖼️ Imaging MS
 
 - [13C-SpaceM](https://github.com/Buglakova/13C-SpaceM) - 13C spatial metabolomics
 - [Aird-MSI](https://github.com/CSi-Studio/mzmine3/tree/Aird2.0) - Aird for MSI
@@ -414,7 +414,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Ion Mobility MS
+## 🌬️ Ion Mobility MS
 
 - [AllCCS2](http://allccs.zhulab.cn/) - CCS prediction database
 - [AutoCCS](https://github.com/PNNL-Comp-Mass-Spec/AutoCCS) - Automated CCS calculation
@@ -438,7 +438,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Isotopic
+## 🧮 Isotopic
 
 - [Aerith](https://github.com/thepanlab/Aerith) - Isotope analysis
 - [CIL-ExPMRM](http://www.exposomemrm.com/) - Chemical isotope labeling
@@ -453,14 +453,14 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Large Scale
+## 🔭 Large Scale
 
 - [LargeMetabo](https://github.com/LargeMetabo/LargeMetabo) - Large-scale metabolomics
 - [peakPantheR](https://bioconductor.org/packages/peakPantheR/) - Peak integration at scale
 
 ---
 
-## Lipidomics
+## 🧬 Lipidomics
 
 - [ADViSELipidomics](https://github.com/ShinyFabio/ADViSELipidomics) - Advanced lipidomics
 - [BATL](complimet.ca/batl/) - Batch tools for lipidomics
@@ -503,7 +503,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Metabolic Networks
+## 🕸️ Metabolic Networks
 
 - [DNEA](https://github.com/Karnovsky-Lab/DNEA/) - Differential network enrichment
 - [FNICM](https://github.com/LiQi94/FNICM) - Flux network integration
@@ -521,7 +521,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Metadata
+## 🗃️ Metadata
 
 - [MatrixLM](https://github.com/senresearch/MatrixLM.jl) - Matrix linear models
 - [MetaXtract](https://github.com/Rappsilber-Laboratory/MetaXtract) - Metadata extraction
@@ -530,7 +530,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Multifunctional
+## 🔀 Multifunctional
 
 - [BUDDY](https://github.com/HuanLab/BUDDY) - Bottom-up deconvolution
 - [DEIMoS](https://github.com/pnnl/deimos) - Data extraction for ion mobility
@@ -569,7 +569,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Multiomics
+## 🔗 Multiomics
 
 - [AgeAnnoMO](https://relab.xidian.edu.cn/AgeAnnoMO/#/) - Age annotation multiomics
 - [BATMAN‑TCM 2.0](http://bionet.ncpsb.org.cn/batman-tcm/) - TCM database
@@ -596,7 +596,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## NMR
+## 🔬 NMR
 
 - [A-SIMA/A-MAP](https://poky.clas.ucdenver.edu) - NMR analysis
 - [AQuA](https://pmc.ncbi.nlm.nih.gov/articles/instance/8253485/bin/ac0c04233_si_001.pdf) - Automated quantification
@@ -644,7 +644,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Organism Specific
+## 🌱 Organism Specific
 
 - [Aspergillus Metabolome Database](https://github.com/albertogilf/ceuMassMediator/tree/master/CMMAspergillusDB) - Aspergillus metabolome
 - [FoodAtlas](http://foodatlas.ai) - Food metabolomics
@@ -673,7 +673,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Pathway, Enrichment and Ontology Tools
+## 🛤️ Pathway, Enrichment and Ontology Tools
 
 - [ChemFOnt](https://www.chemfont.ca/) - Chemical ontology
 - [EnrichMET](https://github.com/biodatalab/enrichmet) - Enrichment for metabolomics
@@ -701,7 +701,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Patterns
+## 🔎 Patterns
 
 - [MCnebula](https://mcnebula.org/) - Multiple classes nebula
 - [Metabokiller](https://pypi.org/project/Metabokiller/) - Pattern killing
@@ -710,7 +710,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Pre-processing
+## ⚙️ Pre-processing
 
 - [3D-MSNet](https://github.com/CSi-Studio/3D-MSNet) - 3D MS network
 - [AriumMS](https://github.com/AdrianHaun/AriumMS/) - Arium MS processing
@@ -778,7 +778,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Quality Control
+## ✅ Quality Control
 
 - [ALISTER](https://itmp.shinyapps.io/alister/) - Quality assessment
 - [CordBat](https://github.com/BorchLab/CordBat) - Batch correction
@@ -811,7 +811,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## RT (Retention Time)
+## ⏱️ RT (Retention Time)
 
 - [ABCoRT](https://github.com/RiverCCC/ABCoRT) - Antibody RT prediction
 - [AsRTNet](https://github.com/piscookie/AS-RT) - Attention-based RT
@@ -831,7 +831,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Single Cell Metabolomics
+## 🦠 Single Cell Metabolomics
 
 - [MetaPhenotype](https://github.com/songyuan93/MetaPhenotype) - Metabolic phenotyping
 - [MMEASE](https://idrblab.org/mmease/) - Single cell metabolomics
@@ -840,7 +840,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Spatial Metabolomics
+## 🗺️ Spatial Metabolomics
 
 - [scSpaMet](https://github.com/coskunlab/ScSpaMet) - Spatial metabolomics
 - [SMART](https://github.com/bioinfo-ibms-pumc/SMART) - Spatial metabolomics analysis
@@ -850,7 +850,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Specialized
+## 🧩 Specialized
 
 - [Amanida](https://github.com/mariallr/amanida) - Amanita metabolomics
 - [arcMS](https://github.com/leesulab/arcMS) - Archaea MS
@@ -902,7 +902,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Spectral Library
+## 📕 Spectral Library
 
 - [CIeaD](https://www.moleculardetective.org/Links.html) - Chemical investigation
 - [DNA Adduct Portal](https://sites.google.com/umn.edu/dnaadductportal) - DNA adducts
@@ -922,7 +922,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Statistical
+## 📈 Statistical
 
 - [cluster-CV](https://github.com/cluster-cv) - Cluster cross-validation
 - [DisCo P-ad](https://github.com/KechrisLab/DisCoPad) - Discovery co-analysis
@@ -945,7 +945,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Targeted
+## 🎯 Targeted
 
 - [automRm](https://gitlab.gwdg.de/joerg.buescher/automrm) - Automated MRM
 - [CLAW-MRM](https://github.com/chopralab/CLAW) - CLAW for MRM
@@ -958,7 +958,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## Visualization
+## 📊 Visualization
 
 - [ClusterApp](http://ccbl-apps.fcfrp.usp.br/ClusterApp) - Clustering application
 - [EDaViS](https://github.com/LRuehrmund/RoMBAT) - Enhanced data visualization
@@ -973,6 +973,6 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 ---
 
-## License
+## 📄 License
 
 This project is licensed under the terms in the [LICENSE](LICENSE) file.
