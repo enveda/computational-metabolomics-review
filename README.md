@@ -7,6 +7,14 @@ A curated list of computational tools, databases, and software for metabolomics 
 
 > Domingo-Fernández, D., Healy, D., Kind, T., Allen, A., Colluru, V., and Misra, B. (2025). Trends in computational metabolomics in the last five years (2021–2025). chemRxiv. <https://doi.org/10.26434/chemrxiv-2025-f6lvq>
 
+## Methodology
+
+We compiled this comprehensive list of computational tools and databases through a systematic approach. We began with manual curation of published metabolomics resources starting in 2021, building upon our prior review efforts ([Misra, 2021](https://doi.org/10.1007/s11306-021-01796-1); [Misra and van der Hooft, 2015](https://doi.org/10.1002/elps.201500417)). To ensure complete coverage and minimize gaps, we subsequently employed three complementary strategies:
+
+1. **Computational screening**: Used AI-assisted tools and Google Scholar to identify emerging metabolomics software and databases across the 2021–2025 period
+2. **Literature review**: Systematically examined citations and references in recent comprehensive metabolomics reviews for each functional category
+3. **Field experts**: Reviewed our compilation with domain experts across different metabolomics subdisciplines
+
 ## Collaborating
 
 Please make a PR editing the [list](tools_list.tsv) to add new tools.
