@@ -508,7 +508,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [Neurolipid Atlas](https://neurolipidatlas.com/) - Lipidomics data commons for neurodegenerative diseases using iPSC-derived cell data
 - [RefLAS](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID=PR002159) - Curated LC-MS lipidomics database based on NIST SRM 1950 human plasma
 - [RPLC-IMS-CID-MS Lipid Database](https://tarheels.live/bakerlab/databases/) - Multidimensional database with RT, CCS, and m/z for 877 lipids across 24 classes
-- [RTStaR](www.neurolipidomics.ca/rtstar/rtstar.html) - Retention time standardization and registration for nLC-nESI-MS/MS lipidomics
+- [RTStaR](https://www.neurolipidomics.ca/rtstar/rtstar.html) - Retention time standardization and registration for nLC-nESI-MS/MS lipidomics
 - [SimLipid](https://www.premierbiosoft.com/lipid/index.html) - Software for large-scale LC-MS untargeted lipidomics profiling with customizable library
 
 ---
@@ -598,7 +598,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [Omics Dashboard](https://biocyc.org/dashboard/dashboard-help.html) - Interactive tool for exploring metabolomics and multi-omics data by cellular system hierarchies
 - [OmicsNet 2.0](https://www.omicsnet.ca) - Web tool for building multi-omics networks with 3D layouts and microbiome support
 - [Paired Omics](https://github.com/iomega/paired-data-form) - Community platform documenting links between metabolome and genome data for natural products
-- [SOmicsFusion](10.5281/zenodo.7700528) - Toolbox for coregistering spatial metabolomics with biomedical imaging modalities like MRI
+- [SOmicsFusion](https://doi.org/10.5281/zenodo.7700528) - Toolbox for coregistering spatial metabolomics with biomedical imaging modalities like MRI
 - [SVAtlas](https://www.svatlas.org/) - Database integrating single extracellular vesicle multi-omics data across 31 diseases
 - [TurbOmics](https://proteomics.cnic.es/TurboPutative/TurbOmicsApp.html) - Web platform for multi-omics integration of metabolomics, proteomics, and transcriptomics
 - [TurboPutative](https://proteomics.cnic.es/TurboPutative/) - Web server for reducing and prioritizing putative annotations in untargeted LC-MS
@@ -671,7 +671,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [mVOC 4.0](http://bioinformatics.charite.de/mvoc) - Database of ~3,500 microbial volatile organic compounds with MS matching
 - [MyxoDB](https://figshare.com/collections/Constructing_a_Myxobacterial_Natural_Product_Database_to_Facilitate_NMR-Based_Metabolomics_Bioprospecting_of_Myxobacteria/6468946) - Database of myxobacterial natural products for NMR-based dereplication
 - [Omics Untargeted Key Script](https://github.com/plyush1993/OUKS) - R-based scripts for comprehensive untargeted LC-MS metabolomics data processing
-- [OrchidMD](www.orchidcomics.com) - Multi-omics database for orchids integrating five omics layers across 213 species
+- [OrchidMD](https://www.orchidcomics.com) - Multi-omics database for orchids integrating five omics layers across 213 species
 - [PaIRKAT](https://github.com/CharlieCarpenter/PaIRKAT) - Kernel regression method incorporating pathway topology for metabolomics association testing
 - [PeanutOmics](https://cgm.sjtu.edu.cn/PeanutOmics/) - Multi-omics platform integrating transcriptomic, proteomic, and metabolomic data for peanut
 - [PSC-db](http://pscdb.appsbio.utalca.cl/) - Database of plant secondary compounds with 3D structures and bioactivity data
@@ -936,7 +936,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [cluster-CV](https://github.com/cluster-cv) - Integrative approach combining univariate, multivariate, and pathway analysis for metabolomics
 - [DisCo P-ad](https://github.com/KechrisLab/DisCoPad) - Multiple testing correction method for controlling false discoveries in metabolomics
 - [GetFeatistics](https://github.com/FrigerioGianfranco/GetFeatistics) - R package for calibration-based quantification and statistical analysis of metabolomics data
-- [imputomics](github.com/BioGenies/imputomics) - R framework benchmarking and applying 52 missing value imputation algorithms for metabolomics
+- [imputomics](https://github.com/BioGenies/imputomics) - R framework benchmarking and applying 52 missing value imputation algorithms for metabolomics
 - [MAI](https://bioconductor.org/packages/release/bioc/html/MAI.html) - Multiple annotation imputation
 - [MAMSI](https://pypi.org/project/mamsi/) - Workflow integrating multi-assay untargeted LC-MS metabolomics for cross-assay biomarker discovery
 - [MetaboLINK/ PCA-GLASSO](https://github.com/jlichtarge/pcaGLASSO) - PCA combined with Graphical Lasso for dimensionality reduction of large metabolomics datasets
@@ -975,7 +975,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [lcmsWorld](https://github.com/PGB-LIV/lcmsWorld) - 3D visualization tool for quality-control inspection of raw LC-MS data
 - [MODE](https://github.com/pmartR/MODE_ShinyApp) - Interactive Shiny app for detailed exploration of multidimensional omics data
 - [MS-VIS](https://github.com/hkevgill/MS-VIS) - R Shiny tool for visualizing mass spectra and analyzing mass lists
-- [PathwayNexus](www.cls.uni-konstanz.de/software/pathway-nexus) - Tool for mapping metabolomics data across multiple conditions onto metabolic pathways
+- [PathwayNexus](https://www.cls.uni-konstanz.de/software/pathway-nexus) - Tool for mapping metabolomics data across multiple conditions onto metabolic pathways
 - [RAIChU](https://github.com/BTheDragonMaster/RAIChU) - Tool for predicting and visualizing NRPS and PKS biosynthetic pathway products
 - [RDD metabolomics platform](https://gnps-rdd.streamlit.app/) - Platform contextualizing unannotated MS/MS spectra by comparison to reference datasets
 - [SpecXplore](https://github.com/kevinmildau/specXplore) - Exploratory tool for manual annotation and visualization of mass spectral data
