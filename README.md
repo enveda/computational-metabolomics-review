@@ -353,7 +353,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 - [RIpred](https://ripred.ca/) - Retention index prediction
 - [SERDA](https://github.com/slfan2013/SERDA) - Denoising autoencoder for normalizing systematic signal drift in large-scale GC-MS studies
 - [SpecTUS](https://github.com/hejjack/SpecTUS) - Deep learning model for de novo molecular structure annotation from GC-EI-MS spectra
-- [uafR](github.org/castratton/uafR) - R package automating GC-MS data retrieval, compound identification, and similarity matching
+- [uafR](https://github.com/castratton/uafR) - R package automating GC-MS data retrieval, compound identification, and similarity matching
 - [UniqPy](https://github.com/DNKonanov/uni_cli) - Thermodynamic model for quantifying short-chain fatty acids from headspace GC-MS
 
 ---
