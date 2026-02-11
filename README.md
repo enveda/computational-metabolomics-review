@@ -473,7 +473,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 ## 🧬 Lipidomics
 
 - [ADViSELipidomics](https://github.com/ShinyFabio/ADViSELipidomics) - Shiny app for preprocessing, analyzing, and visualizing lipidomics data with batch correction
-- [BATL](complimet.ca/batl/) - Bayesian naïve Bayes classifier annotating targeted lipidomics peaks using RT and intensity features
+- [BATL](https://complimet.ca/batl/) - Bayesian naïve Bayes classifier annotating targeted lipidomics peaks using RT and intensity features
 - [DBLiPro](http://lipid.cloudna.cn/home) - Webserver for human lipid metabolism knowledge base and integrative lipidomic analysis
 - [DIATAGe](https://github.com/Velenosi-Lab/DIATAGeR) - R package for triacylglycerol identification in DIA-based lipidomics using target-decoy scoring
 - [Doxlipid](https://figshare.com/articles/journal_contribution/_em_strong_In_silico_strong_em_strong_-predicted_dynamic_oxlipidomics_MS_MS_library_High-throughput_discovery_and_characterization_of_unknown_oxidized_lipids_strong_/23700177/4) - In silico MS/MS library for annotation of 32 subclasses of oxidized lipids
