@@ -1,4 +1,4 @@
-# Trends in Computational Metabolomics (2021–2025)
+# Trends in Computational Metabolomics (2021–2025) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18628731.svg)](https://doi.org/10.5281/zenodo.18628731)
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of computational tools, databases, and software for metabolomics research published between 2021-2025.
