@@ -5,7 +5,7 @@ A curated list of computational tools, databases, and software for metabolomics 
 
 ## Citation
 
-> Domingo-Fernández, D., Healey, D., Kind, T., Allen, A., Colluru, V., and Misra, B. (2026). Trends in Computational Metabolomics: A Perspective on Five Years of Software Development, Challenges, and Opportunities (2021–2025). Analytical Chemistry. In print. [DOI](https://doi.org/10.1021/acs.analchem.6c00361)
+> Domingo-Fernández, D., Healey, D., Kind, T., Allen, A., Colluru, V., and Misra, B. (2026). Trends in Computational Metabolomics: A Perspective on Five Years of Software Development, Challenges, and Opportunities (2021–2025). Anal. Chem. 98 (27): 19962–19974. [DOI](https://doi.org/10.1021/acs.analchem.6c00361)
 
 ## Methodology
 
