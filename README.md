@@ -467,6 +467,7 @@ Please make a PR editing the [list](tools_list.tsv) to add new tools.
 
 - [LargeMetabo](https://github.com/LargeMetabo/LargeMetabo) - R package integrating multiple experiments for biomarker identification at scale
 - [peakPantheR](https://bioconductor.org/packages/peakPantheR/) - Peak integration at scale
+- [MS-MINT](https://github.com/LewisResearchGroup/ms-mint-app2) - Reproducible and fast peak integration at scale
 
 ---
 
